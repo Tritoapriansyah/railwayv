@@ -2,7 +2,6 @@
     "name": "Youtube Stream 24/7 #techcode ",
     "description": "Deploy noVNC to Heroku.",
     "keywords": [
-        "VNC",
         "Docker",
         "noVNC"
     ],
